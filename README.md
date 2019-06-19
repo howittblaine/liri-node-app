@@ -1,5 +1,12 @@
 # LIRI Bot
 
+![Screen Shot 2019-06-18 at 11 30 44 PM](https://user-images.githubusercontent.com/47840542/59742384-715d6400-9222-11e9-89b3-efc11f7f40c1.png)
+
+![Screen Shot 2019-06-18 at 11 31 22 PM](https://user-images.githubusercontent.com/47840542/59742391-74f0eb00-9222-11e9-94e8-a02be40a0b94.png)
+
+![Screen Shot 2019-06-18 at 11 32 39 PM](https://user-images.githubusercontent.com/47840542/59742399-76baae80-9222-11e9-9c25-78af27de86eb.png)
+
+
 ### Overview
 
 In this assignment, you will make LIRI. LIRI is like iPhone's SIRI. However, while SIRI is a Speech Interpretation and Recognition Interface, LIRI is a _Language_ Interpretation and Recognition Interface. LIRI will be a command line node app that takes in parameters and gives you back data. 
